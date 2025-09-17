@@ -3,7 +3,8 @@
 This project applies **transfer learning with ResNet50** to classify images from the **CIFAR-10 dataset** into 10 categories.  
 The implementation is provided in a single **Jupyter Notebook** for simplicity.
 
-<img width="1352" height="85" alt="image" src="https://github.com/user-attachments/assets/304e60a5-e3f3-4a18-a88e-de830bfb3c87" />
+<img width="918" height="493" alt="image" src="https://github.com/user-attachments/assets/163d2e95-4bc0-44b2-9944-62b7fbc79aaf" />
+
 
 
 ---
