@@ -3,9 +3,12 @@
 This project applies **transfer learning with ResNet50** to classify images from the **CIFAR-10 dataset** into 10 categories.  
 The implementation is provided in a single **Jupyter Notebook** for simplicity.
 
+<img width="1352" height="85" alt="image" src="https://github.com/user-attachments/assets/304e60a5-e3f3-4a18-a88e-de830bfb3c87" />
+
+
 ---
 
-## 📌 Project Overview
+## Project Overview
 - **Dataset:** CIFAR-10 (60,000 images across 10 classes)
 - **Model Backbone:** ResNet50 pre-trained on ImageNet
 - **Fine-tuning:** Last 20 layers unfrozen
@@ -17,7 +20,7 @@ The implementation is provided in a single **Jupyter Notebook** for simplicity.
 
 ---
 
-## 🚀 Results
+## Results
 - Achieved **~89% test accuracy** (update after training).
 - Notebook includes:
   - Training process with augmentations
@@ -26,7 +29,7 @@ The implementation is provided in a single **Jupyter Notebook** for simplicity.
 
 ---
 
-## 🛠️ How to Run
+## How to Run
 1. Clone this repository:
    ```bash
    git clone https://github.com/manishabishnoi403/cnn_project_resnet50.git
